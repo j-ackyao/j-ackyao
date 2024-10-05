@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jack Yao. I currently study a combined major in **Computer Science** 💻 and **Statistics** 📈 and intend to minor in **Data Science** 📊 at the **University of British Columbia**.
+I'm Jack Yao. I currently study a combined major in **Computer Science** 💻 and **Statistics** 📈 and minoring in **Data Science** 📊 at the **University of British Columbia**.
 
 Most of my personal projects are on GitHub, feel free to explore them and see the snapshots of my journey!
 
